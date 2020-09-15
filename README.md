@@ -9,7 +9,7 @@ Con este script se podrá:
 listado_licencias <listado.xml>
 
 # Ayuda
-Si se ejecuta sin ningún nombre de fichero .xml se obtiene la sintaxis a ejecutar
+Si se ejecuta sin ningún nombre de fichero .xml se obtiene la sintaxis
 
 # A tener en cuenta
 Con la versión actual es posible que ocurra
