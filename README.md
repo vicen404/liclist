@@ -6,7 +6,7 @@ Con este script se podrá:
 - Obtener el listado de las licencias no incluidas
 
 # Ejecución
-listado_licencias <listado.xml>
+listado_licencias.sh <listado.xml>
 
 # Ayuda
 Si se ejecuta sin ningún nombre de fichero .xml se obtiene la sintaxis
