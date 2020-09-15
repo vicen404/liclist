@@ -1,6 +1,6 @@
 #!/bin/sh
 
-[ ! $1 ] && echo "Uso: traduce_licencias.sh <fichero.xml>" && exit 1
+[ ! $1 ] && echo "Uso: listado_licencias.sh <fichero.xml>" && exit 1
 
 echo "Licencias que aparecen en el fichero $1"
 echo -e "\nFormato de salida\n--------------------------------------"
